@@ -4,6 +4,6 @@ require 'rubygems/commands/list_command'
 class Gem::Commands::ListCommand
   def execute
     super
-    puts "\e[41m\e[33mand Steven! (★ )\e[0m"
+    puts "\e[41m\e[33mand Steven! (⭐️)\e[0m"
   end
 end

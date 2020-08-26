@@ -7,7 +7,7 @@ Gem::Specification.new do |gem|
   gem.email                 = 'dev@effy.is'
   gem.homepage              = 'https://github.com/ineffyble/stevenuniverse'
   gem.license               = 'MIT'
-  gem.version               = '0.1.0'
+  gem.version               = '0.1.1'
   gem.files                 = ['lib/rubygems_plugin.rb', 'Gemfile']
   gem.post_install_message  = 'Hi! My name is Steven!'
   gem.requirements          << 'A gem at the core of your being.'
